@@ -8,3 +8,14 @@ trapo https://dle.rae.es/trapo?m=form
 nítido https://dle.rae.es/n%C3%ADtido
 josear https://dle.rae.es/josear?m=form
 mampara https://dle.rae.es/mampara?m=form
+
+lámpara - http://dle.rae.es/?id=MqxCKuY
+taberna - https://dle.rae.es/taberna?m=form
+bar - https://dle.rae.es/bar?m=form
+cerverza - https://dle.rae.es/cerveza?m=form
+alcohol - https://dle.rae.es/alcohol?m=form
+fiesta - https://dle.rae.es/fiesta?m=form
+resaca - https://dle.rae.es/resaca?m=form
+coche - https://dle.rae.es/coche?m=form
+rueda - https://dle.rae.es/rueda?m=form
+puerta- https://dle.rae.es/puerta?m=form
