@@ -1,0 +1,10 @@
+alfalfa https://dle.rae.es/alfalfa
+ordenador https://dle.rae.es/ordenador?m=form
+calvo https://dle.rae.es/calvo?m=form
+huevo https://dle.rae.es/huevo?m=form
+billar https://dle.rae.es/billar?m=form
+ocho https://dle.rae.es/ocho?m=form
+trapo https://dle.rae.es/trapo?m=form
+nítido https://dle.rae.es/n%C3%ADtido
+josear https://dle.rae.es/josear?m=form
+mampara https://dle.rae.es/mampara?m=form
